@@ -41,7 +41,7 @@ can run outside x64dbg also :)
 
 **Prebuild Plugin**
 
-https://github.com/techbliss/x64dbg_updater
+[https://github.com/techbliss/Screen_Recorder_x64dbg/releases/tag/1]()
 
 **Thx**
 Roger for making capture filters
