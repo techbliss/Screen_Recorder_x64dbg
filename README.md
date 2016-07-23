@@ -60,9 +60,13 @@ https://www.youtube.com/watch?v=REt0VGSCDpw&feature=youtu.be
 [https://github.com/techbliss/Screen_Recorder_x64dbg/releases/tag/1]()
 
 **Thx**
+
 Roger for making capture filters
+
 mr.exodia for making x64dbg together with others
+
 Tomer Zait for starting x64dbgpy
+
 ffmpeg
 
 
