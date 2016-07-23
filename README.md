@@ -8,7 +8,7 @@ Record full hd to mp4 using ffmpeg
 
 **Howto**
 
-build and put the code in the*.dp32 / *.dp64 folder 
+build and put the *.dp32 / *.dp64 together with plugins folder to the equal in x64dbg plugin folders 
 
 *.dp32 / *.dp64
 
@@ -34,6 +34,8 @@ Use vs2013 same as x64dbg to avoid runtime error.
 python 2.7.x x86/x64(depend on your needs)
 
 
+**Needed**
+can run outside x64dbg also :)
 
 
 
