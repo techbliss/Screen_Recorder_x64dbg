@@ -34,6 +34,12 @@ Use vs2013 same as x64dbg to avoid runtime error.
 
 python 2.7.x x86/x64(depend on your needs)
 
+you should download the The Combined Community Codec Pack, its really minimal and have x64player and mp4 / mkv codecs.
+
+http://www.cccp-project.net/
+
+
+
 
 **Needed**
 can run outside x64dbg also :)
