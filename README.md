@@ -48,6 +48,10 @@ can run outside x64dbg also :)
 [https://github.com/techbliss/Screen_Recorder_x64dbg/tree/master/plugins/recorder]()
 
 
+**Test quality**
+https://www.youtube.com/watch?v=REt0VGSCDpw&feature=youtu.be
+
+
 
 **Prebuild Plugin**
 
