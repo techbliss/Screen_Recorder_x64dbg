@@ -48,6 +48,18 @@ can run outside x64dbg also :)
 [https://github.com/techbliss/Screen_Recorder_x64dbg/tree/master/plugins/recorder]()
 
 
+**TipTip**
+
+I added a count down that is disabled by default
+
+i you wanna try it unquote
+
+https://github.com/techbliss/Screen_Recorder_x64dbg/blob/master/plugins/recorder/rec_main.py#L579
+ 
+ and 
+ 
+ https://github.com/techbliss/Screen_Recorder_x64dbg/blob/master/plugins/recorder/rec_main.py#L580
+
 **Test quality**
 https://www.youtube.com/watch?v=REt0VGSCDpw&feature=youtu.be
 
