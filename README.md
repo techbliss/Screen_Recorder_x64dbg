@@ -12,9 +12,9 @@ build and put the *.dp32 / *.dp64 together with plugins folder to the equal in x
 
 *.dp32 / *.dp64
 
-add ffmpeg in  plugins/recorder/bin to Os PATH
+Add ffmpeg in  plugins/recorder/bin to Os PATH
 
-register filter with batch file.
+Register filter with batch file.
 
 screen-capture-recorder.dll
 
@@ -36,6 +36,8 @@ python 2.7.x x86/x64(depend on your needs)
 
 **Needed**
 can run outside x64dbg also :)
+
+[https://github.com/techbliss/Screen_Recorder_x64dbg/tree/master/plugins/recorder]()
 
 
 
