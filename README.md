@@ -27,6 +27,7 @@ Remember to unregister filter and re register register filter if you move filter
 
 **Needed**
 [https://github.com/x64dbg/PyQt5]()
+
 [https://github.com/x64dbg/x64dbgpy]()
 
 Use vs2013 same as x64dbg to avoid runtime error.
