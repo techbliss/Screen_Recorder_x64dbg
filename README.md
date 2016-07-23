@@ -14,7 +14,7 @@ build and put the *.dp32 / *.dp64 together with plugins folder to the equal in x
 
 Add ffmpeg in  plugins/recorder/bin to Os PATH
 
-Register filter with batch file.
+Register filter with batch file located in plugins/recorder folder.
 
 screen-capture-recorder.dll
 
