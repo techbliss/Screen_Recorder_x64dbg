@@ -42,7 +42,7 @@ http://www.cccp-project.net/
 
 
 
-**Needed**
+**Tip**
 can run outside x64dbg also :)
 
 [https://github.com/techbliss/Screen_Recorder_x64dbg/tree/master/plugins/recorder]()
