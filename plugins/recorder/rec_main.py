@@ -576,8 +576,8 @@ class Ui_MainWindow(QWidget):
         import subprocess
         from subprocess import Popen, PIPE
         g = globals()
-        # execfile('splashscreen.py', g)
-        # time.sleep(6)
+        execfile('splashscreen.py', g)
+        time.sleep(6)
         from subprocess import Popen, PIPE
         self.bob = subprocess.Popen(
             "CMD /k " + 'ffmpeg -rtbufsize 1500M -f dshow -i video="Qt-screen-capture" -y Captured.mp4 -s dp -r 60 -vcodec libx264 -threads 0 -crf 0 -preset ultrafast ',

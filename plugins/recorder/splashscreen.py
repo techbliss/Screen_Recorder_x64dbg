@@ -48,9 +48,9 @@ def Splash(self):
 if __name__ == '__main__':
 
     import sys
-    #app = QtWidgets.QApplication(sys.argv)
+    app = QtWidgets.QApplication(sys.argv)
     Splash(([0]))
-    #app.exec_()
+    app.exec_()
     Form = QtWidgets.QWidget()
 
 
