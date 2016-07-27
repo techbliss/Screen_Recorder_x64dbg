@@ -575,7 +575,8 @@ class Ui_MainWindow(QWidget):
 
         import subprocess
         from subprocess import Popen, PIPE
-        execfile('splashscreen.py')
+
+        #execfile('splashscreen.py')
         
         from subprocess import Popen, PIPE
         self.bob = subprocess.Popen(
